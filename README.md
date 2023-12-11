@@ -17,5 +17,5 @@ Apenas um estudante, com o objetivo de ser um desenvolvedor full-stack, aqui voc
   <img align="center" alt="html5" height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="html5" height="55em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
 </div>--> 
-        
+         
   
