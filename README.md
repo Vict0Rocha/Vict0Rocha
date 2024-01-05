@@ -1,6 +1,6 @@
 ## Hello, World! sou o Victor Cordeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> 
 Apenas um estudante, com o objetivo de ser um desenvolvedor full-stack, aqui você pode acompanhar algumas das minhas linguagens de programação. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> [Meu portifólio!](https://vict0rocha.github.io/)
-                                                            
+                                                               
 <div align="center">             
   <a href="https://github.com/Vict0Rocha">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vict0Rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
