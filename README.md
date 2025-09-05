@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Vict0Rocha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&pause=1500&color=2F9FFC&width=435&lines=Ol%C3%A1%2C+me+chamo+Victor+Hugo...;Seja+bem-vindo+ao+meu+perfil" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
 ## Hello, World! sou o Victor Cordeiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> 
 Apenas um estudante, com o objetivo de ser um desenvolvedor full-stack, aqui você pode acompanhar algumas das minhas linguagens de programação. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> <!-- [Meu portifólio!](https://vict0rocha.github.io/) -->
                                                                    
