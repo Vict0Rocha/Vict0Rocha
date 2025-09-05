@@ -5,24 +5,16 @@
   </a>
 </p>
 
+<!-- Sobre mim -->
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25"/>  Sobre Mim
 
-Eu sou o **Victor**, desenvolverdor **Full-Stack** entusiasta por tecnologia e por resolver problemas através do desenvolvimento de software, atualmente sou graduante em **Sistemas de Informação**.
+Eu sou o **Victor**, desenvolverdor **Full-Stack** entusiasta por tecnologia e por resolver problemas através do desenvolvimento de software. Atualmente sou graduante em **Sistemas de Informação**.
 
 Estou sempre em busca de oportunidades onde possa aplicar meu conhecimento, aprender com a equipe e contribuir com soluções eficientes. 🚀
 
-
-
 <br/>
-
-<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> -->
-Apenas um estudante, com o objetivo de ser um desenvolvedor full-stack, aqui você pode acompanhar algumas das minhas linguagens de programação. <!-- [Meu portifólio!](https://vict0rocha.github.io/) -->
                                                                    
-<div align="center">             
-  <a href="https://github.com/Vict0Rocha">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vict0Rocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0Rocha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>     
+
     
 <div style="display: inline_block"><br>
 <!--   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
