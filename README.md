@@ -13,7 +13,15 @@
 Eu sou o **Victor**, desenvolverdor **Full-Stack** entusiasta por tecnologia e por resolver problemas através do desenvolvimento de software. Atualmente sou graduante em **Sistemas de Informação**.
 
 Estou sempre em busca de oportunidades onde possa aplicar meu conhecimento, aprender com a equipe e contribuir com soluções eficientes. 🚀
-                                                                   
-## 🧠 Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,mysql,git)](https://skillicons.dev)         
+
+* 🌐 Você pode ver meus trabalhos ou entrar em contato comigo [aqui](https://portfolio-victor-cordeiro.vercel.app/)
+* 📫 Ou envie um e-mail para victorcordeiro.dev@gmail.com
+
+                                                                   
+## 🛠️ Skills 
+
+![My Skills](https://skillicons.dev/icons?i=html,css,python,django,mysql,git)         
+
+---
+
