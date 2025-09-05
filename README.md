@@ -6,7 +6,7 @@
 </p>
 
 <!-- Sobre mim -->
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="30" />  Sobre Mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="30" />  Sobre Mim
 
 <img align="right" alt="dog-coding-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d5bWR2cmx0ODgyeWFxdmZwOXd0ZjRlOG45MmdhOTNycTY5eGNpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120" />
 
@@ -14,6 +14,6 @@ Eu sou o **Victor**, desenvolverdor **Full-Stack** entusiasta por tecnologia e p
 
 Estou sempre em busca de oportunidades onde possa aplicar meu conhecimento, aprender com a equipe e contribuir com soluções eficientes. 🚀
                                                                    
-# 🧠 Skills 
+## 🧠 Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,django,mysql,git)](https://skillicons.dev)         
