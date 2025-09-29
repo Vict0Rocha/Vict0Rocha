@@ -10,7 +10,7 @@
 
 <img align="right" alt="dog-coding-gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d5bWR2cmx0ODgyeWFxdmZwOXd0ZjRlOG45MmdhOTNycTY5eGNpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="120" />
 
-Eu sou o **Victor**, desenvolverdor **Full-Stack** entusiasta por tecnologia e por resolver problemas através do desenvolvimento de software. Atualmente sou graduante em **Sistemas de Informação**.
+Eu sou o **Victor**, desenvolvedor **Full-Stack** entusiasta por tecnologia e por resolver problemas através do desenvolvimento de software. Atualmente sou graduante em **Sistemas de Informação**.
 
 Estou sempre em busca de oportunidades onde possa aplicar meu conhecimento, aprender com a equipe e contribuir com soluções eficientes. 🚀
 
